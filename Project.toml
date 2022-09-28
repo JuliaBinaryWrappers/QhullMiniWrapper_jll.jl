@@ -1,6 +1,6 @@
 name = "QhullMiniWrapper_jll"
 uuid = "460c41e3-6112-5d7f-b78c-b6823adb3f2d"
-version = "1.0.0+0"
+version = "1.0.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
