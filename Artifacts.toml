@@ -1,0 +1,143 @@
+[[QhullMiniWrapper]]
+arch = "aarch64"
+git-tree-sha1 = "42eb4233ba2e5c31ba6eb33d7f6f0458c3ac689f"
+os = "macos"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "71ea83340df7d3ff9f80e3ccaf5292ae0c5b5dc432c4110febebc71cb7b2bf58"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[QhullMiniWrapper]]
+arch = "aarch64"
+git-tree-sha1 = "7e9bd8e9a060d773a32821ab3704a0b7048079b5"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "75ef5b958e1f393470771539862e4e42e830a71692bde669cd2e0865a5f7f864"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[QhullMiniWrapper]]
+arch = "aarch64"
+git-tree-sha1 = "4fd4075902a437ab20c37a41286f57ec3b9aa86d"
+libc = "musl"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "92102b369f1670f88c680c3d094a1b33c6644d18eaeae400bc860dbb85bd54f3"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.aarch64-linux-musl.tar.gz"
+[[QhullMiniWrapper]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d97279a22793550dd31504eadb8df62dca9f5107"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "42adb1c92f4f57c0e1b1fedc4c414b15057624034b0eaa71f297965b5fca5289"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[QhullMiniWrapper]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2e41299fd04e6350a6e246d01b35bd987194bfa"
+libc = "musl"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "26059c96ce586e8b64c757aa6743a5155a96a5ccda7adbdc5a73e01877391526"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[QhullMiniWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "76accb05b3654fda91eeaa3037e6df3654b2e167"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "b8cfbf05be131880f26961bd04cdbbf5c8f55cc370c628f78b8d390a30d58e6f"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[QhullMiniWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "20db7c49d379f890dc9e1c770ce66316ac545b51"
+libc = "musl"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "01cbd26319b795fec374fb36070e11aeae9981bc0bac82b1436f6f8e75a1b974"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[QhullMiniWrapper]]
+arch = "i686"
+git-tree-sha1 = "8e4de30613d5e6bd377631ad675403e94f8863a1"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "0f103b4d211f574026a2d90c69f1fa2802f23e97011cb4c657e33ce02648ecfe"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.i686-linux-gnu.tar.gz"
+[[QhullMiniWrapper]]
+arch = "i686"
+git-tree-sha1 = "74efa242ec6a6236604713399ae36647a0025c75"
+libc = "musl"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "df3d535758d267173d2c65065402e07955ea5c5974a6f07b4b74f3e4e6ab0208"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.i686-linux-musl.tar.gz"
+[[QhullMiniWrapper]]
+arch = "i686"
+git-tree-sha1 = "905f725194fd93f8bd85391ccecd8cf826096dcb"
+os = "windows"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "47e420491504cd17fbf782e57ec06974fae19967f15c049086daa777ee2f00ac"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.i686-w64-mingw32.tar.gz"
+[[QhullMiniWrapper]]
+arch = "powerpc64le"
+git-tree-sha1 = "f9bd2f2465d954631e355626b4a9e775b9f66f99"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "6529194215a8ec90d7e297f59a307a3d32f96714155fcce397f70018cc7cd7f3"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[QhullMiniWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "ce7bcb4fca56ff01c7955dd98c3e8fb5f30a8130"
+os = "macos"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "5aafa2636c59a4378affc017d9690203a3bf60339698eb02cdce32cad7b2864f"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[QhullMiniWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "79433854cf762663f13f2b495cd0fe774ed12d4c"
+libc = "glibc"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "619a41289628e15b8905526c2db2784f95fb4696101673eb481e935f69f1ea65"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[QhullMiniWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "0cc37845b10239c0b1a42cfb050919043eed0594"
+libc = "musl"
+os = "linux"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "9117251a746620b296fb19280cec5e792bca8da1d5cdf892e92e7ad6b1d97695"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.x86_64-linux-musl.tar.gz"
+[[QhullMiniWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "8d8476ad696e1dc2f82ca3df53a1cf7ce91f6ca7"
+os = "freebsd"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "b18febc6eb1bfe9afe7f040d23a1a331eaaa62428a1ebffb87cea508707fc03c"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[QhullMiniWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "cc07776fb4f338d4d7e16997a1db14ebf3af12ce"
+os = "windows"
+
+    [[QhullMiniWrapper.download]]
+    sha256 = "2c6e4f73a9f319750a72742381a7c96abacdfa4349ba7569854e785f3f0ef32f"
+    url = "https://github.com/JuliaBinaryWrappers/QhullMiniWrapper_jll.jl/releases/download/QhullMiniWrapper-v1.0.0+0/QhullMiniWrapper.v1.0.0.x86_64-w64-mingw32.tar.gz"
